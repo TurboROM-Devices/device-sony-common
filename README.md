@@ -1,7 +1,4 @@
-Copyright (C) Sony Mobile Communications 2014
-=============================================
 
-This is the Android common configuration for Sony platforms.
+#Copyright 2016 - The Turbo Project
 
-Build instructions
-http://developer.sonymobile.com/knowledge-base/open-source/open-devices/aosp-build-instructions/
+Common configuration for Sony platfrom
